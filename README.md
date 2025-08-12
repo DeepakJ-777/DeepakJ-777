@@ -16,16 +16,23 @@ Stepping aside from TECH fields also hugely into Badminton 🏸 Singing 🎤🎶
 -![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
--React, Node.js, Express
--Java, Python, C
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=DeepakJ-777)
+
 
 - 🔭 I’m currently working on Several small small projects to keep up my Streak 
 - 🌱 I’m currently learning Deep levels of JavaScript and CSS
 - 👯 I’m looking to collaborate on any interesting Projects with any tech enthusiasts 🙂
 - 💬 Ask me about how i manage to go deep into each fields while maintaining good grades as an Undergrad
 - 📫 How to reach me: [Instagram](https://www.instagram.com/de_deepak_oo5/)
-  [LinkedIn](https://www.linkedin.com/in/deepak-j-mathew-9b890b2aa)
+  [LinkedIn](https://www.linkedin.com/in/deepak-j-mathew-9b890b2aa)<br>
   I did not think about adding GitHub link here no NEVER☹️🚶‍♂️‍➡️
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Left Handed,Flat footed and what more Hopefully one of the Best developers
