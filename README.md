@@ -1,6 +1,12 @@
-# Hi there! 🙂🙂
+## Hello There!!!🫡  
 
-I'm Deepak J Mathew, a passionate **Full Stack Developer plus AI enthusiast!** 🔥
+![HelloThereWellHelloThereGIF](https://github.com/user-attachments/assets/3424a6ef-b99a-4d03-af21-7eab17311d7f)
+
+
+<img src="file:///C:/Users/deepa/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/HelloThereWellHelloThereGIF%20(2).gif" width="300"/>
+
+
+I'm Deepak J Mathew, a passionate **Full Stack Developer plus AI enthusiast!** 🔥<br>
 Stepping aside from TECH fields also hugely into Badminton 🏸 Singing 🎤🎶 and Drawing 🧑‍🎨✏️
 ## 📊 GitHub Stats
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepakJ-777&show_icons=true&theme=radical)
@@ -13,16 +19,15 @@ Stepping aside from TECH fields also hugely into Badminton 🏸 Singing 🎤🎶
 
 
 
-##Skills
--![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+## Skills
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="100" style="margin-right:10px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="100" style="margin-right:10px;">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="100" style="margin-right:10px;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="100" style="margin-right:10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="100" style="margin-right:10px;">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="100">
+</p>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DeepakJ-777&color=blue&style=for-the-badge)
