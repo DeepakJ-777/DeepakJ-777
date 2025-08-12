@@ -9,7 +9,8 @@ Stepping aside from TECH fields also hugely into Badminton 🏸 Singing 🎤🎶
 ![trophy](https://github-profile-trophy.vercel.app/?username=DeepakJ-777&theme=monokai)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=DeepakJ-777&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=DeepakJ-777&theme=dark&hide_border=true)
+
 
 
 ##Skills
@@ -24,7 +25,8 @@ Stepping aside from TECH fields also hugely into Badminton 🏸 Singing 🎤🎶
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=DeepakJ-777)
+![Profile Views](https://komarev.com/ghpvc/?username=DeepakJ-777&color=blue&style=for-the-badge)
+
 
 
 - 🔭 I’m currently working on Several small small projects to keep up my Streak 
