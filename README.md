@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! 🙂🙂
 
-<!--
-**DeepakJ-777/DeepakJ-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Deepak J Mathew, a passionate **Full Stack Developer plus AI enthusiast!** 🔥
+Stepping aside from TECH fields also hugely into Badminton 🏸 Singing 🎤🎶 and Drawing 🧑‍🎨✏️
+## 📊 GitHub Stats
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepakJ-777&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=DeepakJ-777&theme=monokai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=DeepakJ-777&theme=dark)
+
+
+##Skills
+-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+-React, Node.js, Express
+-Java, Python, C
+
+- 🔭 I’m currently working on Several small small projects to keep up my Streak 
+- 🌱 I’m currently learning Deep levels of JavaScript and CSS
+- 👯 I’m looking to collaborate on any interesting Projects with any tech enthusiasts 🙂
+- 💬 Ask me about how i manage to go deep into each fields while maintaining good grades as an Undergrad
+- 📫 How to reach me: [Instagram](https://www.instagram.com/de_deepak_oo5/)
+  [LinkedIn](https://www.linkedin.com/in/deepak-j-mathew-9b890b2aa)
+  I did not think about adding GitHub link here no NEVER☹️🚶‍♂️‍➡️
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Left Handed,Flat footed and what more Hopefully one of the Best developers
+
