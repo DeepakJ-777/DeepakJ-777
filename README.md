@@ -10,13 +10,24 @@ I'm Deepak J Mathew, a passionate **Full Stack Developer plus AI enthusiast!** �
 Stepping aside from TECH fields also hugely into Badminton 🏸 Singing 🎤🎶 and Drawing 🧑‍🎨✏️
 ## 📊 GitHub Statistics
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepakJ-777&theme=radical)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepakJ-777&theme=radical)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeepakJ-777&theme=radical&utcOffset=5.5)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepakJ-777&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepakJ-777&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepakJ-777&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeepakJ-777&theme=radical&utcOffset=5.5" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepakJ-777&theme=radical" />
+    </td>
+  </tr>
+</table>
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=DeepakJ-777&theme=monokai)
 
