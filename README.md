@@ -30,7 +30,7 @@ Stepping aside from TECH fields also hugely into Badminton 🏸 Singing 🎤🎶
 </table>
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=DeepakJ-777&theme=radical&no-frame=true&row=1&column=7)
+[![Trophies](https://trophy.ryglcloud.net/?username=DeepakJ-777&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=DeepakJ-777&theme=dark&hide_border=true)
