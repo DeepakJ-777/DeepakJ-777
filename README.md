@@ -8,9 +8,15 @@
 
 I'm Deepak J Mathew, a passionate **Full Stack Developer plus AI enthusiast!** 🔥<br>
 Stepping aside from TECH fields also hugely into Badminton 🏸 Singing 🎤🎶 and Drawing 🧑‍🎨✏️
-## 📊 GitHub Stats
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepakJ-777&show_icons=true&theme=radical)
+## 📊 GitHub Statistics
 
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepakJ-777&theme=radical)
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepakJ-777&theme=radical)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeepakJ-777&theme=radical&utcOffset=5.5)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepakJ-777&theme=radical)
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=DeepakJ-777&theme=monokai)
 
