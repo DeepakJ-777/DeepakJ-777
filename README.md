@@ -38,7 +38,7 @@
     <img src="https://streak-stats.demolab.com/?user=DeepakJ-777&theme=radical&hide_border=true" alt="Deepak's GitHub streak stats" />
   </a>
 </p>
-<p align="center"><sub>If the streak card doesn't appear, <a href="https://streak-stats.demolab.com/?user=DeepakJ-777&theme=radical&hide_border=true">open it directly</a>—the shared stats service can occasionally be unavailable.</sub></p>
+
 
 ## 🛠️ Skills
 
